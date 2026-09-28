@@ -1,0 +1,21 @@
+Timestamp,Device_Name,Object_Type,Present_Value,Status_Flags
+2026-03-01 12:00:00,Chiller_01,analog-value,18.4,normal
+2026-03-01 12:00:01,Chiller_01,analog-value,18.5,normal
+2026-03-01 12:00:02,Chiller_01,analog-value,18.5,normal
+2026-03-01 12:00:03,Chiller_01,analog-value,18.6,normal
+2026-03-01 12:00:04,Chiller_01,analog-value,19.0,normal
+2026-03-01 12:00:05,Chiller_01,analog-value,22.1,normal
+2026-03-01 12:00:06,Chiller_01,analog-value,22.3,normal
+2026-03-01 12:00:07,Chiller_01,analog-value,22.4,normal
+2026-03-01 12:00:08,Chiller_01,analog-value,22.5,normal
+2026-03-01 12:00:09,Chiller_01,analog-value,22.7,normal
+2026-03-01 12:00:10,Chiller_01,analog-value,22.8,normal
+2026-03-01 12:00:11,Chiller_01,analog-value,23.0,normal
+2026-03-01 12:00:12,Chiller_01,analog-value,23.1,normal
+2026-03-01 12:00:13,Chiller_01,analog-value,23.2,normal
+2026-03-01 12:00:14,Chiller_01,analog-value,23.4,normal
+2026-03-01 12:00:15,Chiller_01,analog-value,23.5,normal
+2026-03-01 12:00:16,Chiller_01,analog-value,23.6,normal
+2026-03-01 12:00:17,Chiller_01,analog-value,23.8,normal
+2026-03-01 12:00:18,Chiller_01,analog-value,23.9,normal
+2026-03-01 12:00:19,Chiller_01,analog-value,24.0,normal
